@@ -10,40 +10,40 @@ body{
 
 .call-action{
   height: 200px;
-  max-width: 600px;
-  border: 1px solid black;
+  max-width: 500px;
+  border: 1px solid #C07B82;
   margin: 10px;
   padding: 5px;
-  color: #C07B82;
+  color: black;
   line-height:80%;
   text-align: center;
-  text-shadow: 2px 1px;
+  font-weight:bold;
   font-size: 2em;
   background-size: contain;
 }
 
-.contact {
-  background: url('../images/pizza-329523__480.webp');
+#contact {
+  background: url('../images/baked-goods-1853261__480.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.recepten{
-  background: url('../images/food-712665__480.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+#recepten{
+  background: url('../images/cookie-756601__480.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
-.werkwijze {
+#werkwijze {
   background: url('../images/breakfast-1804457__480.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
-.inschrijven{
+#inschrijven{
   background: url('../images/canape-2802__480.webp');
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .navbar{
@@ -62,4 +62,8 @@ body{
   color:inherit;#C07B82;
   text-decoration: none;
   font-weight: bold;
+}
+
+.company {
+  font-style:italic;
 }
