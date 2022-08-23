@@ -1,5 +1,33 @@
 
 
+
+.call-action{
+
+  height: 200px;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+  color:white;
+  text-align: center;
+  font-size: 3em;
+  background: url('../images/pizza-329523__480.webp');
+  background-size: contain;
+}
+
+.navbar{
+  border-bottom: 2px solid #94C425;
+}
+
+footer {
+  border-bottom: 1px solid #AB375F;
+}
+
+.centered {
+  margin: 0 auto;
+}
+=======
+
+
 .call-action{
 
   height: 200px;
