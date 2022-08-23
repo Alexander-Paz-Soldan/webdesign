@@ -73,22 +73,16 @@ footer {
   border-bottom: 2px solid #94C425;
 }
 
-.footer {
-  border-bottom: 1px solid #AB375F;
-  color: #C07B82
-
+.bottom-nav {
+  margin-left: 10px;
+  border-top: 1px solid #AB375F;
+  border-bottom: 2px solid #94C425;
+  color: #C07B82;
+  font-size: 0.8em;
 }
 
-.icon{
-  width:16px;
-  height:16px;
-  display:inline-block;
-  background-image: url('..images/193.jpg');
-}
-.icon.facebook{
-  background-position:-100px -100px;
-}
-
-.centered {
-  margin: 0 auto;
+.bottom-nav a {
+  color:inherit;#C07B82;
+  text-decoration: none;
+  font-weight: bold;
 }
