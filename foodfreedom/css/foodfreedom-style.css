@@ -1,4 +1,7 @@
 
+body{
+  font-family: calibri;
+}
 
 
 .call-action{
@@ -29,24 +32,61 @@ footer {
 
 
 .call-action{
-
   height: 200px;
+  max-width: 600px;
   border: 1px solid black;
   margin: 10px;
-  padding: 10px;
-  color:white;
+  padding: 5px;
+  color: #C07B82;
+  line-height:80%;
   text-align: center;
-  font-size: 3em;
-  background: url('../images/pizza-329523__480.webp');
+  text-shadow: 2px 1px;
+  font-size: 2em;
   background-size: contain;
+}
+
+.contact {
+  background: url('../images/pizza-329523__480.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.recepten{
+  background: url('../images/food-712665__480.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.werkwijze {
+  background: url('../images/breakfast-1804457__480.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.inschrijven{
+  background: url('../images/canape-2802__480.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .navbar{
   border-bottom: 2px solid #94C425;
 }
 
-footer {
+.footer {
   border-bottom: 1px solid #AB375F;
+  color: #C07B82
+
+}
+
+.icon{
+  width:16px;
+  height:16px;
+  display:inline-block;
+  background-image: url('..images/193.jpg');
+}
+.icon.facebook{
+  background-position:-100px -100px;
 }
 
 .centered {
