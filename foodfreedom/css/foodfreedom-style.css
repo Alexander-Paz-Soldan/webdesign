@@ -8,11 +8,17 @@ body{
 }
 
 
-.call-action{
-  height: 200px;
-  max-width: 500px;
+.col-sm {
   border: 1px solid #C07B82;
   margin: 10px;
+}
+
+.col-sm a {
+  text-decoration: none;
+}
+
+.call-action{
+  height: 200px;
   padding: 5px;
   color: black;
   line-height:80%;
