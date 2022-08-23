@@ -1,0 +1,51 @@
+
+
+groen: #94C11F   RGB 153,204,51
+roze/paars #BD667B
+licht-groen: #94C11F
+paars: #A21C4D
+
+rode kool: #F4E8EB
+heel licht groen: #ECF3DA
+
+Atlantis
+#94C425
+
+Night Shadz
+#AB375F
+
+Satin Linen
+#E8E4D5
+
+Old Rose
+#C07B82
+
+kleuren schema
+spot palette
+
+#ab375f
+#c88093
+#ffe3ef
+#00c89d
+
+some good black and white contrasts
+
+
+in de navbar
+hamburger - logo - search en login
+
+tegels
+schrijf je in
+onze recepten
+stel een vraag
+hoe werkt het?
+
+footer
+contact | over | social media icons
+
+opmerking SEARCH KAN IN DE NAVBAR
+------------
+inschrijven
+recepten
+werkwijze
+contact
