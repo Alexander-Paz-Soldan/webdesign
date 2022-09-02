@@ -1,0 +1,23 @@
+/* specifieke stijlen voor inschrijf-formulier */
+.col-sm{
+  padding: 10px;
+}
+
+#inschrijf-formulier{
+  background-color:  #ECF3DA;
+}
+label{
+  margin: 5px;
+  display: inline-block;
+  text-align: left;
+  width: 200px;
+}
+
+.form-group{
+  padding: 10px;
+}
+
+.form-control{
+  margin: 3px;
+  width: 50%;
+}

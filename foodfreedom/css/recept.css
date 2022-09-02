@@ -1,0 +1,22 @@
+
+#recept{
+  margin: 0 auto;
+  padding: 10px;
+  width: 80%;
+}
+
+
+
+#myRange{
+  width: 200px;
+}
+
+#ingredienten{
+  list-style-type: disc;
+  font-style: italic;
+}
+
+img{
+  max-height: 100%;
+  max-width: 100%;
+}
